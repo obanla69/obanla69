@@ -1,0 +1,2 @@
+division = 5/2
+print(type(division))
